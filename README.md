@@ -60,8 +60,10 @@ Contains the following endpoints:
     		Fred Cartman
     ```
 
-3. `talents`
-4. `personality`
+Future endpoints
+
++ `talents`
++ `personality`
 
 
 [1]: https://southpark.fandom.com/wiki/Eric_Cartman
